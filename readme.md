@@ -1,5 +1,7 @@
 Recognizr
 
+![Alt text](Icon_Original.png)
+
 Simple implementation of VGG-Metal on iOS 10 with swift 3
 
 parameters.data can be downloaded from https://mega.nz/%23!fcFyGJBJ!5Zy47jS3xhHP-0CjEVg5CRzx1wF1itnf9AHVdeRBHYk , or be converted by yourself via convert_vggnet.py, and then put under the path ~/Recognizr-master/VGGnet/
